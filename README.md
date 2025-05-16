@@ -48,6 +48,4 @@ No external dependencies required
 Author
 
 Timothy Rauck
-Section: 52
-E-mail: trauck1@umbc.edu
 Date: November 3, 2023
